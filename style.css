@@ -31,3 +31,9 @@ h3
     width: 40px;
 }
 
+/* Começando a mexer na Main */
+
+.explicação h2
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
